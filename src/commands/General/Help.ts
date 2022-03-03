@@ -37,10 +37,10 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `
-            🤍 Konichiwa senpai 🤍
+            🤍 Sup Cunts 🤍
             ╭─「(づ￣ 3￣)づ」
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: ᖇᎥᑎ
+            │⋊ ɴᴀᴍᴇ: Your Dad
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
